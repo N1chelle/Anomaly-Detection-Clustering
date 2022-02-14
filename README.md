@@ -56,28 +56,28 @@ At first I used the algorithm to form 2 clusters and then compared it with the o
 
 Original: 
 
-![](original_class.png)  
+![](https://github.com/N1chelle/Anomaly-Detection---Clustering/blob/main/Images/original_class.png?raw=true)  
 
 KMeans:
 
-![](KMeans_cluster.png)
+![](https://github.com/N1chelle/Anomaly-Detection---Clustering/blob/main/Images/KMeans_cluster.png?raw=true)
 
 Also, I plotted a graph to view the distribution of the audio features:
 
 Original:
-![](original_plot.png)
+![](https://github.com/N1chelle/Anomaly-Detection---Clustering/blob/main/Images/original_plot.png?raw=true)
 
-![](Kmeans_plot.png)
+![](https://github.com/N1chelle/Anomaly-Detection---Clustering/blob/main/Images/KMeans_plot.png?raw=true)
 
 Then I used the algorithm to form 3 clusters with the idea that it would group the sounds into normal, abnormal and transitory.
 
 Dataset:
 
-![](KMeans_cluster3.png)
+![](https://github.com/N1chelle/Anomaly-Detection---Clustering/blob/main/Images/KMeans_cluster3.png?raw=true)
 
 Graph:
 
-![](KMeans_plot3.png)
+![](https://github.com/N1chelle/Anomaly-Detection---Clustering/blob/main/Images/KMeans_plot3.png?raw=true)
 
 
 From the dataset and the plots I observed that the abnormal sound feature points were overlapping normal sound points.

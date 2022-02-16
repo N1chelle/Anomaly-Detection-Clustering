@@ -65,7 +65,10 @@ KMeans:
 Also, I plotted a graph to view the distribution of the audio features:
 
 Original:
+
 ![](https://github.com/N1chelle/Anomaly-Detection---Clustering/blob/main/Images/original_plot.png?raw=true)
+
+KMeans:
 
 ![](https://github.com/N1chelle/Anomaly-Detection---Clustering/blob/main/Images/KMeans_plot.png?raw=true)
 
